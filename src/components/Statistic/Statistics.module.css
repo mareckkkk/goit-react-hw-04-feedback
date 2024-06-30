@@ -1,0 +1,11 @@
+.feedbackList {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+
+.feedbackListItem {
+  display: flex;
+  font-size: 2.5rem;
+  padding: 0.5rem;
+}
