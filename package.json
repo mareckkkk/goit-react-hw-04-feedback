@@ -1,7 +1,7 @@
 {
   "name": "react-playground",
   "private": false,
-  "homepage": "https://github.com/mareckkkk/goit-react-hw-02-feedback/",
+  "homepage": "https://github.com/mareckkkk/goit-react-hw-04-feedback/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -17,7 +17,8 @@
     "lint": "^0.8.19",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^6.23.1"
+    "react-router-dom": "^6.23.1",
+    "save-dev": "^0.0.1-security"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
